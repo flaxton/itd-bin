@@ -1,1 +1,1 @@
-neofetch --backend off --color_blocks off
+neofetch --backend off --color_blocks off --stdout
