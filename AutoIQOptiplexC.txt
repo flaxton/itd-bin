@@ -19,7 +19,7 @@ Memory: 3328MiB / 7919MiB
 
 Serial/Service Tag: 4WZKXM2
 Storage: 97.44 GB free of 117.44 GB
-RAM config:
+RAM config: 1 8GB stick, 2 slots
 
 
 Host Name:                 AUTOIQOPTIPLEXC
